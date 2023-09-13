@@ -10,4 +10,4 @@ fs.writeFileSync(
         </body>
     </html>
     `
-)
+);
